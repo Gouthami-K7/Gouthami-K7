@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gouthami-K7
-- 👀 I’m interested in Learning Python,JAVA and many more...
+- 👀 I’m Working on Python,JAVA and many more...
 - 🌱 I'm currently pursuing Btech :)
 - 📫 How to reach me: gouthami.k2005@gmail.com
 - ⚡ THINK-PLAN-EXECUTE.
