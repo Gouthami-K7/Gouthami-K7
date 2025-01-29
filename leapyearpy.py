@@ -5,13 +5,13 @@ elif num%4==0 and num%100!=0:
     print("It is a leap year")
 else:
     print("not a leap year")
-for num in range(1800,1890):
-    print("18th centuary")
-
-for num in range(1900,1990):
-    print("20th centuary")
-
-for num in range(2000, 2090):
-    print("21st centuary")
+if 1800 <= num <= 1899:
+    print("It is the 19th century")
+elif 1900 <= num <= 1999:
+    print("It is the 20th century")
+elif 2000 <= num <= 2099:
+    print("It is the 21st century")
+else:
+    print("Year is out of the specified century range")
 
 
