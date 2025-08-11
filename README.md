@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gouthami-K7
-- 👀 I’m Working on Python,JAVA and many more...
+- 👀 I’m Working on Python,JAVA,Web development and many more...
 - 🌱 I'm currently pursuing Btech :)
-- 📫 How to reach me: gouthami.k2005@gmail.com
+- 📫 How to reach me: gouthamikondrapet@gmail.com
 - ⚡ THINK-PLAN-EXECUTE.
 
 <!---
